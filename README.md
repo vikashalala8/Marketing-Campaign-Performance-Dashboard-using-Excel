@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on transforming raw multi-channel marketing campaign data into an interactive Excel dashboard that delivers actionable business insights. The dashboard helps stakeholders evaluate campaign effectiveness, optimize ad spend, and improve ROI through data-driven decisions 
+This project focuses on transforming raw multi-channel marketing campaign data into an interactive Excel dashboard that delivers actionable business insights. The dashboard helps stakeholders evaluate campaign effectiveness, optimize ad spend, and improve ROI through data-driven decisions  
 
 ---
 
